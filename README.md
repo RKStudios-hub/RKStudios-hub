@@ -1,4 +1,4 @@
-<h1 align="center">RK Studios</h1>
+<h1 align="center">😎 RK Studios</h1>
 
 
 <table width="100%">
@@ -54,6 +54,7 @@ Hi 👋! I'm RK ... and I'm a normal highschooler , I'm currently operating from
 <p align="center">
   <img src="https://github-readme-stats-azlz.vercel.app/api/top-langs/?username=RKStudios-hub&layout=compact&theme=dracula" height="165" />
   <img src="https://github-readme-stats-azlz.vercel.app/api?username=RKStudios-hub&show_icons=true&theme=dracula" height="165" />
+  <img src="giphy.gif" width="200"/>
 </p>
 
 <br>
