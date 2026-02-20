@@ -2,21 +2,23 @@
 
 <hr>
 
-<p align="center">
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+<p>
 Hi 👋! I'm RK ... and I'm a normal highschooler , I'm currently operating from my parents basement ...
 </p>
 
 <br>
 
-<!-- SKILLS -->
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,blender,figma&perline=8" />
 </p>
 
 <br>
 
-<!-- SOCIALS -->
-<p align="center">
+<p>
   <a href="https://www.youtube.com/@hrupeshkumar">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
@@ -31,6 +33,16 @@ Hi 👋! I'm RK ... and I'm a normal highschooler , I'm currently operating from
   </a>
 </p>
 
+</td>
+
+<td width="35%" align="center">
+
+<img src="logo.png" width="250"/>
+
+</td>
+</tr>
+</table>
+
 <br>
 
 <!-- ACTIVITY GRAPH -->
@@ -42,8 +54,8 @@ Hi 👋! I'm RK ... and I'm a normal highschooler , I'm currently operating from
 
 <!-- STATS SECTION -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RKStudios&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKStudios-hub&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RKStudios-hub&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKStudios-hub&theme=tokyonight" height="165"/>
 </p>
 
 <br>
