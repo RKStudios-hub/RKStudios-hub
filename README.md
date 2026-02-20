@@ -1,6 +1,5 @@
 <h1 align="center">RK Studios</h1>
 
-<hr>
 
 <table width="100%">
 <tr>
@@ -52,10 +51,9 @@ Hi 👋! I'm RK ... and I'm a normal highschooler , I'm currently operating from
 
 <br>
 
-<!-- STATS SECTION -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RKStudios-hub&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKStudios-hub&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-azlz.vercel.app/api/top-langs/?username=RKStudios-hub&layout=compact&theme=dracula" height="165" />
+  <img src="https://github-readme-stats-azlz.vercel.app/api?username=RKStudios-hub&show_icons=true&theme=dracula" height="165" />
 </p>
 
 <br>
