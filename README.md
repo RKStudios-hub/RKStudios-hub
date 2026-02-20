@@ -1,71 +1,57 @@
 <h1 align="center">RK Studios</h1>
 
-###
+<hr>
 
-<br clear="both">
+<p align="center">
+Hi 👋! I'm RK ... and I'm a normal highschooler , I'm currently operating from my parents basement ...
+</p>
 
-<h4 align="center">Hi 👋! I'm RK ...   and I'm a normal highschooler , I'm currently operating from my parents basement ...</h4>
+<br>
 
-###
+<!-- SKILLS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,blender,figma&perline=8" />
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@hrupeshkumar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<!-- SOCIALS -->
+<p align="center">
+  <a href="https://www.youtube.com/@hrupeshkumar">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/rk_studios_nightmare" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <a href="https://www.twitch.tv/rk_studios_nightmare">
+    <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/YYYbxHSNWB" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.gg/YYYbxHSNWB">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://codepen.io/Rupesh-Kumar-the-vuer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  <a href="https://codepen.io/Rupesh-Kumar-the-vuer/">
+    <img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+<br>
 
-<br clear="both">
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RKStudios-hub&theme=tokyo-night&hide_border=true" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RKStudios-hub/RKStudios-hub/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RKStudios-hub/RKStudios-hub/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RKStudios-hub/RKStudios-hub/output/pacman-contribution-graph.svg">
-</picture>
+<br>
 
-###
+<!-- STATS SECTION -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RKStudios&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKStudios-hub&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RKStudios-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RKStudios-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<br>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RKStudios-hub&label=Profile+Views&color=00F7FF&style=flat" />
+</p>
+
+<p align="center">
+⚡ Basement Powered Development
+</p>
