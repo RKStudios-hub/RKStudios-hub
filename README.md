@@ -24,7 +24,7 @@ Hi 👋! I'm RK ... and I'm a normal highschooler , I'm currently operating from
   <a href="https://www.twitch.tv/rk_studios_nightmare">
     <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/YYYbxHSNWB">
+  <a href="https://discord.gg/K2hvht8cGQ">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://codepen.io/Rupesh-Kumar-the-vuer/">
