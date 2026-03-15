@@ -36,7 +36,7 @@ Hi 👋! I'm RK ... and I'm a normal highschooler , I'm currently operating from
 
 <td width="35%" align="center">
 
-<img src="logo.gif" width="250"/>
+<img src="logo.png" width="250"/>
 
 </td>
 </tr>
